@@ -86,7 +86,7 @@ This Temporal Convolutional Networks (TCN) model is an initial implementation, r
 
 This project is open-source and available for public use under the MIT License. Contributions and feedback are welcome\!
 
-[image1]: <https://raw.githubusercontent.com/taleblou/TCN-Price-Prediction/refs/heads/main/Plot/TCN_BTC-USD.png>
-[image2]: <https://raw.githubusercontent.com/taleblou/TCN-Price-Prediction/refs/heads/main/Plot/TCN_GC%3DF.png>
-[image3]: <https://raw.githubusercontent.com/taleblou/TCN-Price-Prediction/refs/heads/main/Plot/TCN_EURUSD%3DX.png>
-[image4]: <https://raw.githubusercontent.com/taleblou/TCN-Price-Prediction/refs/heads/main/Plot/TCN_%5EGSPC.png>
+[image1]: <https://raw.githubusercontent.com/taleblou/TemporalConvolutionalNetwork-Price-Prediction/refs/heads/main/Plot/TCN_BTC-USD.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/TemporalConvolutionalNetwork-Price-Prediction/refs/heads/main/Plot/TCN_GC%3DF.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/TemporalConvolutionalNetwork-Price-Prediction/refs/heads/main/Plot/TCN_EURUSD%3DX.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/TemporalConvolutionalNetwork-Price-Prediction/refs/heads/main/Plot/TCN_%5EGSPC.png>
